@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "year": 2020,
+        "title": "The Haunting of Bly Manor",
+        "summary" : "The story tells of a young au pair hired by a man to look after his niece and nephew at the family country house after they fall into his care. Arriving at the Bly estate, she begins to see apparitions that proceed to haunt the premises",
+        "poster": "https://tvline.com/wp-content/uploads/2020/08/haunting-of-bly-manor-premiere-date.jpeg",
+        "streamingService": "Netflix",
+        "watched": true,
+        "seasons": 1
+    },
+    {
+        "id": 2,
+        "year": "2019 - Present",
+        "title": "The Mandalorian",
+        "summary" : "A lone gunfighter makes his way through the outer reaches of the galaxy, far from the authority of the New Republic.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+        "streamingService": "Disney+",
+        "watched": true,
+        "seasons": 2
+    },
+    {
+        "id": 3,
+        "year": "2018-Present",
+        "title": "Cobra Kai",
+        "summary" : "Thirty four years after events of the 1984 All Valley Karate Tournament, a down-and-out Johnny Lawrence seeks redemption by reopening the infamous Cobra Kai dojo, reigniting his rivalry with a now successful Daniel LaRusso.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "streamingService": "Netflix",
+        "watched": false,
+        "seasons": 3
+    },
+    {
+        "id": 4,
+        "year": "2020-Present",
+        "title": "Raised by Wolves",
+        "summary" : "Two androids are tasked with raising human children on a mysterious virgin planet; as the human colony threatens to be torn apart by religious differences, the androids learn that controlling the beliefs of humans is a treacherous and difficult task.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWUzMGZjNjgtMzkwYS00MTdhLTlhYzItYTEzMjRjMjkzZmM3XkEyXkFqcGdeQXVyMTE5MzYzMDE5._V1_.jpg",
+        "streamingService": "HBO Max",
+        "watched": true,
+        "seasons": 1
+    },
+    {
+        "id": 5,
+        "year": "2020-Present",
+        "title": "Lovecraft Country",
+        "summary" : "Atticus Black joins his friend Letitia and his Uncle George to embark on a road trip across 1950s Jim Crow America in search of his missing father.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2ExMmZlZDQtOTJiZC00Y2UzLWIxNDYtZTdiYzAzYzQyMmQ4XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg",
+        "streamingService": "HBO Max",
+        "watched": false,
+        "seasons": 1
+    }
+]
